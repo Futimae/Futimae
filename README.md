@@ -4,11 +4,9 @@
 
 **#web_developer #the_king_of_the_desert**
 
-![github_profile](README.assets/github_profile.jpg)
 
-<!-- ![솔브닥 잔디](https://mazandi.herokuapp.com/api?handle=kjunhwan98&theme=warm) -->
+<!-- ![솔브닥 잔디](https://mazandi.herokuapp.com/api?handle=Futimae&theme=warm) -->
 
-[![Solved.acprofile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjunhwan98)](https://solved.ac/kjunhwan98)
 
 ---
 
